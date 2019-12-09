@@ -133,7 +133,8 @@ unsigned char GetKeypadKey() {
 	return '\0';
 }
 
-
+http://www.handsonembedded.com/lcd16x2-hd44780-tutorial-5/ 
+http://saeedsolutions.blogspot.com/2012/12/how-to-display-custom-characters-on-lcd.html
 void LCD_BuildCharacter(unsigned char pick_Pattern, unsigned char *pattern){
 	unsigned char i;
 	
