@@ -1,31 +1,4 @@
-bit.h
-Today
-12:43 PM
-Q
-You moved an item to
-Google Drive Folder
-io files
-C
-bit.h
-12:43 PM
-Q
-You renamed an item
-C
-bit.h
-Copy of bit.h
-12:41 PM
-Q
-You moved an item to
-Google Drive Folder
-my custom project
-C
-Copy of bit.h
-12:39 PM
-Q
-You created an item in
-My Drive
-C
-Copy of bit.h
+
 // Permission to copy is granted provided that this header remains intact. 
 // This software is provided with no warranties.
 
